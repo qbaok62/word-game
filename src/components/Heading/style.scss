@@ -1,0 +1,16 @@
+@import '~scss/font';
+
+.heading {
+	&-h1 {
+		font-size: $font-xlg;
+		text-align: center;
+		font-weight: $font-semi;
+	}
+
+	&-subtitle {
+		color: white;
+		font-size: $font-md;
+		text-align: center;
+		font-weight: $font-medium;
+	}
+}
